@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=3668B1&center=true&vCenter=true&width=800&height=200&lines=%F0%9F%91%8B%F0%9F%98%8A+Hello%2C+my+name+is+Aiura;%F0%9F%98%9A+I+am+currently+%3F%3F%3F+years+old;%F0%9F%98%8C+I+love+blue%2C+blue+is+my+color!;%E2%9C%8C%EF%B8%8F%F0%9F%98%81+I'm+joking+btw%2C+it's+white;%F0%9F%A5%B0+Anyways%2C+glad+to+meet+you!)](https://git.io/typing-svg)
+[![Go to Profile](https://cutt.ly/THwYPgZ)](https://github.com/Aiuraa)
