@@ -1,6 +1,6 @@
 
 About Me
-└─> Who knows, but i guaranteed it's the same person, yeah.
+└─> Who knows
   
 Projects
 └─> Private Gamemode | samp-vending | Archived Projects
